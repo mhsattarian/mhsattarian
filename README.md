@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on GIS related front-end
 - 🌱 I’m currently learning RXJS
-- 📫 How to reach me: mh_sattarian@outlook.com
+- 📫 How to reach me: mh_sattarian@outlook.com | [linktree](http://linktr.ee/mh_sattarian)
+- ⚡ Fun fact: @MHSttrn looks just like me!
 
 <!--
 **mhsattarian/mhsattarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

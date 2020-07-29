@@ -5,6 +5,12 @@
 - 📫 How to reach me: mh_sattarian@outlook.com | [linktree](http://linktr.ee/mh_sattarian)
 - ⚡ Fun fact: [@MHSttrn](https://github.com/MHSttrn) looks just like me!
 
+<div align="center">
+  
+![MohammadH's github stats](https://github-readme-stats.vercel.app/api?username=mhsattarian&show_icons=true)
+
+</div>
+
 <!--
 **mhsattarian/mhsattarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

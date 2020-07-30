@@ -1,6 +1,6 @@
 # Hi There 👾
 
-- 🔭 I’m currently working on GIS related front-end
+- 🔭 I’m currently working on GIS related front-end and updating [ML-Glossary](https://github.com/mhsattarian/ML-Glossary)
 - 🌱 I’m currently learning RXJS
 - 📫 How to reach me: mh_sattarian@outlook.com | [linktree](http://linktr.ee/mh_sattarian)
 - ⚡ Fun fact: [@MHSttrn](https://github.com/MHSttrn) looks just like me!
